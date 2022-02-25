@@ -1,0 +1,15 @@
+C:\Users\ibila\OneDrive\Masaüstü\C#\static_Class\bin\Debug\net6.0\static_Class.exe
+C:\Users\ibila\OneDrive\Masaüstü\C#\static_Class\bin\Debug\net6.0\static_Class.deps.json
+C:\Users\ibila\OneDrive\Masaüstü\C#\static_Class\bin\Debug\net6.0\static_Class.runtimeconfig.json
+C:\Users\ibila\OneDrive\Masaüstü\C#\static_Class\bin\Debug\net6.0\static_Class.dll
+C:\Users\ibila\OneDrive\Masaüstü\C#\static_Class\bin\Debug\net6.0\ref\static_Class.dll
+C:\Users\ibila\OneDrive\Masaüstü\C#\static_Class\bin\Debug\net6.0\static_Class.pdb
+C:\Users\ibila\OneDrive\Masaüstü\C#\static_Class\obj\Debug\net6.0\static_Class.csproj.AssemblyReference.cache
+C:\Users\ibila\OneDrive\Masaüstü\C#\static_Class\obj\Debug\net6.0\static_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibila\OneDrive\Masaüstü\C#\static_Class\obj\Debug\net6.0\static_Class.AssemblyInfoInputs.cache
+C:\Users\ibila\OneDrive\Masaüstü\C#\static_Class\obj\Debug\net6.0\static_Class.AssemblyInfo.cs
+C:\Users\ibila\OneDrive\Masaüstü\C#\static_Class\obj\Debug\net6.0\static_Class.csproj.CoreCompileInputs.cache
+C:\Users\ibila\OneDrive\Masaüstü\C#\static_Class\obj\Debug\net6.0\static_Class.dll
+C:\Users\ibila\OneDrive\Masaüstü\C#\static_Class\obj\Debug\net6.0\ref\static_Class.dll
+C:\Users\ibila\OneDrive\Masaüstü\C#\static_Class\obj\Debug\net6.0\static_Class.pdb
+C:\Users\ibila\OneDrive\Masaüstü\C#\static_Class\obj\Debug\net6.0\static_Class.genruntimeconfig.cache

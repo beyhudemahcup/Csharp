@@ -1,0 +1,5 @@
+C:\Users\ibila\OneDrive\Masaüstü\C#\rekursif_fonksiyonlar\obj\Debug\net6.0\rekursif_fonskiyonlar.csproj.AssemblyReference.cache
+C:\Users\ibila\OneDrive\Masaüstü\C#\rekursif_fonksiyonlar\obj\Debug\net6.0\rekursif_fonskiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibila\OneDrive\Masaüstü\C#\rekursif_fonksiyonlar\obj\Debug\net6.0\rekursif_fonskiyonlar.AssemblyInfoInputs.cache
+C:\Users\ibila\OneDrive\Masaüstü\C#\rekursif_fonksiyonlar\obj\Debug\net6.0\rekursif_fonskiyonlar.AssemblyInfo.cs
+C:\Users\ibila\OneDrive\Masaüstü\C#\rekursif_fonksiyonlar\obj\Debug\net6.0\rekursif_fonskiyonlar.csproj.CoreCompileInputs.cache

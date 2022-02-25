@@ -1,0 +1,15 @@
+C:\Users\ibila\OneDrive\Masaüstü\C#\Interface_ders\bin\Debug\net6.0\Interface_ders.exe
+C:\Users\ibila\OneDrive\Masaüstü\C#\Interface_ders\bin\Debug\net6.0\Interface_ders.deps.json
+C:\Users\ibila\OneDrive\Masaüstü\C#\Interface_ders\bin\Debug\net6.0\Interface_ders.runtimeconfig.json
+C:\Users\ibila\OneDrive\Masaüstü\C#\Interface_ders\bin\Debug\net6.0\Interface_ders.dll
+C:\Users\ibila\OneDrive\Masaüstü\C#\Interface_ders\bin\Debug\net6.0\ref\Interface_ders.dll
+C:\Users\ibila\OneDrive\Masaüstü\C#\Interface_ders\bin\Debug\net6.0\Interface_ders.pdb
+C:\Users\ibila\OneDrive\Masaüstü\C#\Interface_ders\obj\Debug\net6.0\Interface_ders.csproj.AssemblyReference.cache
+C:\Users\ibila\OneDrive\Masaüstü\C#\Interface_ders\obj\Debug\net6.0\Interface_ders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibila\OneDrive\Masaüstü\C#\Interface_ders\obj\Debug\net6.0\Interface_ders.AssemblyInfoInputs.cache
+C:\Users\ibila\OneDrive\Masaüstü\C#\Interface_ders\obj\Debug\net6.0\Interface_ders.AssemblyInfo.cs
+C:\Users\ibila\OneDrive\Masaüstü\C#\Interface_ders\obj\Debug\net6.0\Interface_ders.csproj.CoreCompileInputs.cache
+C:\Users\ibila\OneDrive\Masaüstü\C#\Interface_ders\obj\Debug\net6.0\Interface_ders.dll
+C:\Users\ibila\OneDrive\Masaüstü\C#\Interface_ders\obj\Debug\net6.0\ref\Interface_ders.dll
+C:\Users\ibila\OneDrive\Masaüstü\C#\Interface_ders\obj\Debug\net6.0\Interface_ders.pdb
+C:\Users\ibila\OneDrive\Masaüstü\C#\Interface_ders\obj\Debug\net6.0\Interface_ders.genruntimeconfig.cache

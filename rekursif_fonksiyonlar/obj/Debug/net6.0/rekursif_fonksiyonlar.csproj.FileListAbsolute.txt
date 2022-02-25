@@ -1,0 +1,15 @@
+C:\Users\ibila\OneDrive\Masaüstü\C#\rekursif_fonksiyonlar\obj\Debug\net6.0\rekursif_fonksiyonlar.csproj.AssemblyReference.cache
+C:\Users\ibila\OneDrive\Masaüstü\C#\rekursif_fonksiyonlar\obj\Debug\net6.0\rekursif_fonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibila\OneDrive\Masaüstü\C#\rekursif_fonksiyonlar\obj\Debug\net6.0\rekursif_fonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\ibila\OneDrive\Masaüstü\C#\rekursif_fonksiyonlar\obj\Debug\net6.0\rekursif_fonksiyonlar.AssemblyInfo.cs
+C:\Users\ibila\OneDrive\Masaüstü\C#\rekursif_fonksiyonlar\obj\Debug\net6.0\rekursif_fonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\ibila\OneDrive\Masaüstü\C#\rekursif_fonksiyonlar\bin\Debug\net6.0\rekursif_fonksiyonlar.exe
+C:\Users\ibila\OneDrive\Masaüstü\C#\rekursif_fonksiyonlar\bin\Debug\net6.0\rekursif_fonksiyonlar.deps.json
+C:\Users\ibila\OneDrive\Masaüstü\C#\rekursif_fonksiyonlar\bin\Debug\net6.0\rekursif_fonksiyonlar.runtimeconfig.json
+C:\Users\ibila\OneDrive\Masaüstü\C#\rekursif_fonksiyonlar\bin\Debug\net6.0\rekursif_fonksiyonlar.dll
+C:\Users\ibila\OneDrive\Masaüstü\C#\rekursif_fonksiyonlar\bin\Debug\net6.0\ref\rekursif_fonksiyonlar.dll
+C:\Users\ibila\OneDrive\Masaüstü\C#\rekursif_fonksiyonlar\bin\Debug\net6.0\rekursif_fonksiyonlar.pdb
+C:\Users\ibila\OneDrive\Masaüstü\C#\rekursif_fonksiyonlar\obj\Debug\net6.0\rekursif_fonksiyonlar.dll
+C:\Users\ibila\OneDrive\Masaüstü\C#\rekursif_fonksiyonlar\obj\Debug\net6.0\ref\rekursif_fonksiyonlar.dll
+C:\Users\ibila\OneDrive\Masaüstü\C#\rekursif_fonksiyonlar\obj\Debug\net6.0\rekursif_fonksiyonlar.pdb
+C:\Users\ibila\OneDrive\Masaüstü\C#\rekursif_fonksiyonlar\obj\Debug\net6.0\rekursif_fonksiyonlar.genruntimeconfig.cache

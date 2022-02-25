@@ -1,0 +1,15 @@
+C:\Users\ibila\OneDrive\Masaüstü\C#\Enum_ders\bin\Debug\net6.0\Enum_ders.exe
+C:\Users\ibila\OneDrive\Masaüstü\C#\Enum_ders\bin\Debug\net6.0\Enum_ders.deps.json
+C:\Users\ibila\OneDrive\Masaüstü\C#\Enum_ders\bin\Debug\net6.0\Enum_ders.runtimeconfig.json
+C:\Users\ibila\OneDrive\Masaüstü\C#\Enum_ders\bin\Debug\net6.0\Enum_ders.dll
+C:\Users\ibila\OneDrive\Masaüstü\C#\Enum_ders\bin\Debug\net6.0\ref\Enum_ders.dll
+C:\Users\ibila\OneDrive\Masaüstü\C#\Enum_ders\bin\Debug\net6.0\Enum_ders.pdb
+C:\Users\ibila\OneDrive\Masaüstü\C#\Enum_ders\obj\Debug\net6.0\Enum_ders.csproj.AssemblyReference.cache
+C:\Users\ibila\OneDrive\Masaüstü\C#\Enum_ders\obj\Debug\net6.0\Enum_ders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibila\OneDrive\Masaüstü\C#\Enum_ders\obj\Debug\net6.0\Enum_ders.AssemblyInfoInputs.cache
+C:\Users\ibila\OneDrive\Masaüstü\C#\Enum_ders\obj\Debug\net6.0\Enum_ders.AssemblyInfo.cs
+C:\Users\ibila\OneDrive\Masaüstü\C#\Enum_ders\obj\Debug\net6.0\Enum_ders.csproj.CoreCompileInputs.cache
+C:\Users\ibila\OneDrive\Masaüstü\C#\Enum_ders\obj\Debug\net6.0\Enum_ders.dll
+C:\Users\ibila\OneDrive\Masaüstü\C#\Enum_ders\obj\Debug\net6.0\ref\Enum_ders.dll
+C:\Users\ibila\OneDrive\Masaüstü\C#\Enum_ders\obj\Debug\net6.0\Enum_ders.pdb
+C:\Users\ibila\OneDrive\Masaüstü\C#\Enum_ders\obj\Debug\net6.0\Enum_ders.genruntimeconfig.cache

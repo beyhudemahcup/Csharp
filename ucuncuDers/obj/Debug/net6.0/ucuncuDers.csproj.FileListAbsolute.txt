@@ -1,0 +1,15 @@
+C:\Users\ibila\OneDrive\Masaüstü\C#\ucuncuDers\bin\Debug\net6.0\ucuncuDers.exe
+C:\Users\ibila\OneDrive\Masaüstü\C#\ucuncuDers\bin\Debug\net6.0\ucuncuDers.deps.json
+C:\Users\ibila\OneDrive\Masaüstü\C#\ucuncuDers\bin\Debug\net6.0\ucuncuDers.runtimeconfig.json
+C:\Users\ibila\OneDrive\Masaüstü\C#\ucuncuDers\bin\Debug\net6.0\ucuncuDers.dll
+C:\Users\ibila\OneDrive\Masaüstü\C#\ucuncuDers\bin\Debug\net6.0\ref\ucuncuDers.dll
+C:\Users\ibila\OneDrive\Masaüstü\C#\ucuncuDers\bin\Debug\net6.0\ucuncuDers.pdb
+C:\Users\ibila\OneDrive\Masaüstü\C#\ucuncuDers\obj\Debug\net6.0\ucuncuDers.csproj.AssemblyReference.cache
+C:\Users\ibila\OneDrive\Masaüstü\C#\ucuncuDers\obj\Debug\net6.0\ucuncuDers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibila\OneDrive\Masaüstü\C#\ucuncuDers\obj\Debug\net6.0\ucuncuDers.AssemblyInfoInputs.cache
+C:\Users\ibila\OneDrive\Masaüstü\C#\ucuncuDers\obj\Debug\net6.0\ucuncuDers.AssemblyInfo.cs
+C:\Users\ibila\OneDrive\Masaüstü\C#\ucuncuDers\obj\Debug\net6.0\ucuncuDers.csproj.CoreCompileInputs.cache
+C:\Users\ibila\OneDrive\Masaüstü\C#\ucuncuDers\obj\Debug\net6.0\ucuncuDers.dll
+C:\Users\ibila\OneDrive\Masaüstü\C#\ucuncuDers\obj\Debug\net6.0\ref\ucuncuDers.dll
+C:\Users\ibila\OneDrive\Masaüstü\C#\ucuncuDers\obj\Debug\net6.0\ucuncuDers.pdb
+C:\Users\ibila\OneDrive\Masaüstü\C#\ucuncuDers\obj\Debug\net6.0\ucuncuDers.genruntimeconfig.cache

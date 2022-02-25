@@ -1,0 +1,15 @@
+C:\Users\ibila\OneDrive\Masaüstü\C#\ilk_proje\bin\Debug\net6.0\ilk_proje.exe
+C:\Users\ibila\OneDrive\Masaüstü\C#\ilk_proje\bin\Debug\net6.0\ilk_proje.deps.json
+C:\Users\ibila\OneDrive\Masaüstü\C#\ilk_proje\bin\Debug\net6.0\ilk_proje.runtimeconfig.json
+C:\Users\ibila\OneDrive\Masaüstü\C#\ilk_proje\bin\Debug\net6.0\ilk_proje.dll
+C:\Users\ibila\OneDrive\Masaüstü\C#\ilk_proje\bin\Debug\net6.0\ref\ilk_proje.dll
+C:\Users\ibila\OneDrive\Masaüstü\C#\ilk_proje\bin\Debug\net6.0\ilk_proje.pdb
+C:\Users\ibila\OneDrive\Masaüstü\C#\ilk_proje\obj\Debug\net6.0\ilk_proje.csproj.AssemblyReference.cache
+C:\Users\ibila\OneDrive\Masaüstü\C#\ilk_proje\obj\Debug\net6.0\ilk_proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibila\OneDrive\Masaüstü\C#\ilk_proje\obj\Debug\net6.0\ilk_proje.AssemblyInfoInputs.cache
+C:\Users\ibila\OneDrive\Masaüstü\C#\ilk_proje\obj\Debug\net6.0\ilk_proje.AssemblyInfo.cs
+C:\Users\ibila\OneDrive\Masaüstü\C#\ilk_proje\obj\Debug\net6.0\ilk_proje.csproj.CoreCompileInputs.cache
+C:\Users\ibila\OneDrive\Masaüstü\C#\ilk_proje\obj\Debug\net6.0\ilk_proje.dll
+C:\Users\ibila\OneDrive\Masaüstü\C#\ilk_proje\obj\Debug\net6.0\ref\ilk_proje.dll
+C:\Users\ibila\OneDrive\Masaüstü\C#\ilk_proje\obj\Debug\net6.0\ilk_proje.pdb
+C:\Users\ibila\OneDrive\Masaüstü\C#\ilk_proje\obj\Debug\net6.0\ilk_proje.genruntimeconfig.cache
